@@ -11,12 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
+        "title": "Digital Cigar Vault",
+        "startDate": "2023",
         "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/cigar-vault/p1.jpg",
+          "images/portfolio/cigar-vault/p2.jpg",
+          "images/portfolio/cigar-vault/p3.jpg",
+          "images/portfolio/cigar-vault/p4.jpg"
         ],
         "url": "",
         "technologies": [

@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-[link to portfolio site](https://duckduckgo.com](https://larry-latorre-portfolio.netlify.app/)
+[link to portfolio site](https://larry-latorre-portfolio.netlify.app/)

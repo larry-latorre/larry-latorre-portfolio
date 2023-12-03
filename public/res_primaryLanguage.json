@@ -83,11 +83,11 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Student",
+        "years": "10.2023 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
           "REST API",
@@ -102,9 +102,9 @@
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Ace & Sons",
+        "title": "Weatherization Technician",
+        "years": "01.2005 - 09.2012",
         "mainTech": [
           "Angular 7/8"
         ],
